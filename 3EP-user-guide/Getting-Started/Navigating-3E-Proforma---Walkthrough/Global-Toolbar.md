@@ -1,24 +1,21 @@
-### **Global Toolbar**
+# Global Toolbar
 
 The Global toolbar displays always at the top of the 3E Proforma app, in both the Proforma List and Proforma Detail view. It contains two critical options:
 
-- Working as
+* Working as
+* Notifications
+* Resource Center
 
-- Notifications
+![](../../.gitbook/assets/image20.png)
 
-- Resource Center
-
-<img src="../../3EP-UG-img/media/image20.png" style="width:6.5in;height:1.9375in" />
-
-#### Working As
+## Working As
 
 The **Working as** field displays who the logged-in user is working as. By default, the “Working as” timekeeper is the default timekeeper as designated in the User / Role Management setup in 3E. You can switch between the timekeepers you are “working as” based on the timekeepers mapped to you in 3E User / Role Management.
 
-#### Notifications 
+## Notifications
 
 The Notification bell icon provides a visual indicator to notify you if any print or preview jobs are complete and ready for viewing. Click the **Notification** icon for details.
 
-#### Resource Center 
+## Resource Center
 
 Click to open the 3E Proforma Resource Center for announcements and What's New information.
-
