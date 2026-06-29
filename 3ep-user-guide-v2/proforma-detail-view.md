@@ -1,2 +1,0 @@
-# Proforma Detail View
-
