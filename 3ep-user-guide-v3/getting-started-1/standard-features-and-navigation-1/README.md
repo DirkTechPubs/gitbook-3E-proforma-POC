@@ -1,2 +1,0 @@
-# standard-features-and-navigation
-
