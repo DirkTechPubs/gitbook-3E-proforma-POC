@@ -4,4 +4,6 @@
 
 {% hint style="info" %}
 Note: Testing GitBook editor.
+
+Note: Doing another test.
 {% endhint %}
