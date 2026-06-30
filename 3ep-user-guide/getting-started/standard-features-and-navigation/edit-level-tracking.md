@@ -1,4 +1,4 @@
-### **Edit-Level Tracking**
+# Edit-Level Tracking
 
 3E Proforma tracks and displays prior iteration edits (edit-level tracking) in a different color. An iteration can be explained by the following example:
 
@@ -6,16 +6,15 @@
 
 Before any edits the card shows the following:
 
-<img src="../../3ep-ug-img/media/image59.png" style="width:5in;height:0.47917in" />
+![](../../.gitbook/assets/image59.png)
 
 **After Edits**
 
 The timekeeper edits the proforma as shown in the following:
 
-<img src="../../3ep-ug-img/media/image60.png" style="width:5in;height:0.52083in" />
+![](../../.gitbook/assets/image60.png)
 
-**Note:** The edit text color is red.  In the [<u>Narrative field</u>](card-narrative-fields.md#card-narrative-fields), edits are designated with a red triangle in the top left corner of the field. \
-<img src="../../3ep-ug-img/media/image61.png" style="width:4.15625in;height:0.54167in" />
+**Note:** The edit text color is red.  In the [Narrative field](card-narrative-fields.md#card-narrative-fields), edits are designated with a red triangle in the top left corner of the field. \
+![](../../.gitbook/assets/image61.png)
 
 Any new edit replaces the original value or text; worked values remain the same.
-

@@ -1,26 +1,21 @@
-### **Navigating the Proforma Detail View**
+# Navigating the Proforma Detail View
 
-The Proforma Details view is where you can view and make modifications to proformas. This view is accessed when you click the proforma number of a proforma displayed in the [<u>Proforma List</u>](../navigating-3e-proforma-walkthrough.md#navigating-3e-proforma---walkthrough) view. In the details view, you can:
+The Proforma Details view is where you can view and make modifications to proformas. This view is accessed when you click the proforma number of a proforma displayed in the [Proforma List](../navigating-3e-proforma-walkthrough.md#navigating-3e-proforma---walkthrough) view. In the details view, you can:
 
-- View proforma header details
+* View proforma header details
+* Attach files and add notes to a proforma
+* View financial data from Data Insights
+* View and edit Fee, Costs, and Charge cards
+* Make adjustments
+* Perform and group edit.
 
-- Attach files and add notes to a proforma
+![](../../.gitbook/assets/image6.png)
 
-- View financial data from Data Insights
-
-- View and edit Fee, Costs, and Charge cards
-
-- Make adjustments
-
-- Perform and group edit.
-
-<img src="../../3ep-ug-img/media/image6.png" style="width:6.5in;height:3.76042in" />
-
-**Expand / Collapse Proforma Header Details** <img src="../../3ep-ug-img/media/image7.png" style="width:0.26042in;height:0.26042in" />
+**Expand / Collapse Proforma Header Details** ![](../../.gitbook/assets/image7.png)
 
 Be default the Proforma Details view displays a single line of header details. Click the **Expand** arrow to display for all of the header fields. Click the **Collapse** arrow to close the expanded view.
 
-**Action Menus** <img src="../../3ep-ug-img/media/image8.png" style="width:0.33333in;height:0.3125in" />
+**Action Menus** ![](../../.gitbook/assets/image8.png)
 
 Menus are available at both the proforma and card levels of the Proforma Detail view. Click the menus to access a list of functions to initiate.
 
@@ -30,9 +25,8 @@ Menus are available at both the proforma and card levels of the Proforma Detail 
 
 Toolbars are available at both the header and card level in the Proforma Detail view.
 
-- **Header level** - The header-level toolbar contains an Action menu in addition to options to add attachments and navigate to other proformas in the Proforma list.
-
-- **Card level** - The card-level toolbar contains options to filter and sort a card list and apply actions (e.g., Exclude or combine) against listed cards. See [List View Types](../standard-features-and-navigation/lists.md#list-view-types) for further details.
+* **Header level** - The header-level toolbar contains an Action menu in addition to options to add attachments and navigate to other proformas in the Proforma list.
+* **Card level** - The card-level toolbar contains options to filter and sort a card list and apply actions (e.g., Exclude or combine) against listed cards. See [List View Types](../standard-features-and-navigation/lists.md#list-view-types) for further details.
 
 **Navigating Card List**
 
@@ -45,4 +39,3 @@ The breadcrumbs displayed at the top of the Proforma Details view shows the numb
 **Elite Intelligence**
 
 Click Elite Intelligence to run an inquiry on matter financial, budget information, and 3E Proforma help.
-
