@@ -1,12 +1,11 @@
-## Settings Form and Field Definitions
+# Settings Form and Field Definitions
 
 The Settings page is used to set default behavior for certain areas of 3E Proforma. Defaults can be configured firm-wide and at the user-level.
 
-[<u>User Settings</u>](settings-form-and-field-definitions/user-settings.md#user-settings)
+[User Settings](settings-form-and-field-definitions/user-settings.md#user-settings)
 
-[<u>Firm Settings</u>](settings-form-and-field-definitions/firm-tab.md#firm-tab)
+[Firm Settings](settings-form-and-field-definitions/firm-tab.md#firm-tab)
 
-[<u>System Option Settings</u>](settings-form-and-field-definitions/system-options.md#system-options)
+[System Option Settings](settings-form-and-field-definitions/system-options.md#system-options)
 
- 
-
+&#x20;

@@ -1,20 +1,15 @@
-### **Add Cost to Proforma**
+# Add Cost to Proforma
 
 Do the following to add a cost card to a proforma:
 
-1.  Locate the proforma containing funds on the Proforma list.
+1. Locate the proforma containing funds on the Proforma list.
+2. Click the proforma number to access the Proforma Details view.
+3. Click the proforma-level **Action** menu and select **Add cost**.
+4. Enter the required details in the Add cost window.
+5. Click **Add cost** to save changes and exit the pop-up. The new card will be added to the list on the **Cost** tab.
 
-2.  Click the proforma number to access the Proforma Details view.
+&#x20;
 
-3.  Click the proforma-level **Action** menu and select **Add cost**.
+![](../../.gitbook/assets/image92.png)
 
-4.  Enter the required details in the Add cost window.
-
-5.  Click **Add cost** to save changes and exit the pop-up. The new card will be added to the list on the **Cost** tab.
-
- 
-
-<img src="../../3ep-ug-img/media/image92.png" style="width:6.5in;height:5.46875in" />
-
- 
-
+&#x20;
