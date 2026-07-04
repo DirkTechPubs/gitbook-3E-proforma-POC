@@ -8,6 +8,7 @@
   * [Traditional Proforma Workflow](overview/traditional-proforma-workflow.md)
   * [3E Proforma Workflow](overview/3e-proforma-workflow.md)
   * [Advantages of 3E Proforma](overview/advantages-of-3e-proforma.md)
+  * [Elite Platform AI Agent](overview/elite-platform-ai-agent.md)
 * [Getting Started](getting-started.md)
   * [Accessing 3E Proforma](getting-started/accessing-3e-proforma.md)
     * [Exit 3E Proforma](getting-started/accessing-3e-proforma/exit-3e-proforma.md)
