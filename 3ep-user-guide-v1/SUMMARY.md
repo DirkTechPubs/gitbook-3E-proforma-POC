@@ -7,6 +7,7 @@
   * [Standard Proforma Processing Without the Paper Chase](overview/standard-proforma-processing-without-the-paper-chase.md)
   * [Traditional Proforma Workflow](overview/traditional-proforma-workflow.md)
   * [3E Proforma Workflow](overview/3e-proforma-workflow.md)
+  * [3E Proforma for Dummies](overview/3e-proforma-for-dummies.md)
   * [Advantages of 3E Proforma](overview/advantages-of-3e-proforma.md)
   * [Elite Platform AI Agent](overview/elite-platform-ai-agent.md)
 * [Getting Started](getting-started.md)
