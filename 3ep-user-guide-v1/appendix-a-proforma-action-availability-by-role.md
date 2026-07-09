@@ -10,7 +10,7 @@ The actions that can be performed in the Proformas List depend on the role of th
 
 Some proformas in a category have both a status and a sub-status.
 
-![](.gitbook/assets/image126.png)
+<figure><img src=".gitbook/assets/image126.png" alt=""><figcaption></figcaption></figure>
 
 In the example above, the proforma’s status is **Completed**, and the sub-status is **Biller Review**.
 
